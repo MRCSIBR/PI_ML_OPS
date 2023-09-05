@@ -36,6 +36,9 @@ con los siguientes endpoints:
 
   ## DEPLOY en RENDER
 
+  **`~ El deploy funciona de forma local pero no logra completar el build
+  en Render porque la plataforma solo soporta hasta python 3.7`**
+  
   Para el despliegue de la API se uso Render
   disponible en el siguiente
   link: https://deploy-api-mlops-zm86.onrender.com
