@@ -49,4 +49,6 @@ con los siguientes endpoints:
 
 ## TODO:
 
-Implementar machine learning
+- Deploy de FastAPI con docker
+- Implementar machine learning
+
