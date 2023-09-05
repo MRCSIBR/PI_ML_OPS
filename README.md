@@ -4,13 +4,13 @@ Proyecto individual 1
 En nuestro rol como data scientist para Steam debemos crear un sistema de recomendacion de videojuegos para la empresa. Debemos limpiar los datasets haciendo un trabajo rapido de data engineering. Tener un MVP antes de la fecha de cierre.
 ## Estructura del repositorio:
 
-* Data:       Carpeta con datasets
-
-* Notebooks : DesarrolloApy.ipynb
-            ETL_EDA_Steam.ipynb
-
-* Codigo:     main.py
-             ML_boilerplate.py
+            * Data:       Carpeta con datasets
+            
+            * Notebooks : DesarrolloApy.ipynb
+                        ETL_EDA_Steam.ipynb
+            
+            * Codigo:     main.py
+                         ML_boilerplate.py
 
 
 ## ETL EDA
