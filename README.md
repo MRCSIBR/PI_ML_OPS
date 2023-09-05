@@ -12,6 +12,12 @@ En nuestro rol como data scientist para Steam debemos crear un sistema de recome
             |__* Codigo:     main.py
                              ML_boilerplate.py
 
+## Preprocesamiento de data
+
+Decidi usar el formato parquet que ocupa menos espacio y permite trabajar de forma mas eficiente, para convertir 
+los .json a .parquet instale los siguientes modulos: 
+            `pip install pyarrow`
+            `pip install fastparquet`
 
 ## ETL EDA
 
