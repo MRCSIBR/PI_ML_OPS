@@ -6,7 +6,8 @@ En nuestro rol como data scientist para Steam debemos crear un sistema de recome
             |
             |__* Data:       Carpeta con datasets
             |
-            |__* Notebooks : DesarrolloAPI.ipynb
+            |__* Notebooks:  LOAD_steam_games.ipynb
+            |                DesarrolloAPI.ipynb
             |                ETL_EDA_Steam.ipynb
             |
             |__* Codigo:     main.py
@@ -18,6 +19,7 @@ Decidi usar `el formato de archivo '.parquet' que es mas eficiente en big data` 
 los '.json' a '.parquet' instale los siguientes modulos: 
             `pip install pyarrow`
             `pip install fastparquet`
+En el notebook 'LOAD_steam_games.ipynb' esta documentado el proceso.
 
 ## ETL EDA
 
