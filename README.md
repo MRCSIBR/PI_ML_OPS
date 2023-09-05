@@ -17,8 +17,10 @@ En nuestro rol como data scientist para Steam debemos crear un sistema de recome
 
 Decidi usar `el formato de archivo '.parquet' que es mas eficiente en big data` y permite trabajar de forma agil, para convertir 
 los '.json' a '.parquet' instale los siguientes modulos: 
-            `pip install pyarrow`
-            `pip install fastparquet`
+
+             !pip install pyarrow
+             !pip install fastparquet
+
 En el notebook 'LOAD_steam_games.ipynb' esta documentado el proceso.
 
 ## ETL EDA
