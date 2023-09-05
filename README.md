@@ -6,11 +6,11 @@ En nuestro rol como data scientist para Steam debemos crear un sistema de recome
             |
             |__* Data:       Carpeta con datasets
             |
-            |__* Notebooks : DesarrolloApy.ipynb
-            |                 ETL_EDA_Steam.ipynb
+            |__* Notebooks : DesarrolloAPI.ipynb
+            |                ETL_EDA_Steam.ipynb
             |
             |__* Codigo:     main.py
-                            ML_boilerplate.py
+                             ML_boilerplate.py
 
 
 ## ETL EDA
