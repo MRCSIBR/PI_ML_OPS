@@ -6,10 +6,10 @@ En nuestro rol como data scientist para Steam debemos crear un sistema de recome
             |
             |__* Data:       Carpeta con datasets
             |
-             __* Notebooks : DesarrolloApy.ipynb
-                             ETL_EDA_Steam.ipynb
-            
-            __* Codigo:     main.py
+            |__* Notebooks : DesarrolloApy.ipynb
+            |                 ETL_EDA_Steam.ipynb
+            |
+            |__* Codigo:     main.py
                             ML_boilerplate.py
 
 
@@ -32,7 +32,7 @@ con los siguientes endpoints:
 
   Para el despliegue de la API se uso Render
   disponible en el siguiente
-  link:
+  link: https://deploy-api-mlops-zm86.onrender.com
 
 ## TODO:
 
