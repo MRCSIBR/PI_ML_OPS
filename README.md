@@ -14,8 +14,8 @@ En nuestro rol como data scientist para Steam debemos crear un sistema de recome
 
 ## Preprocesamiento de data
 
-Decidi usar el formato parquet que ocupa menos espacio y permite trabajar de forma mas eficiente, para convertir 
-los .json a .parquet instale los siguientes modulos: 
+Decidi usar `el formato de archivo '.parquet' que es mas eficiente en big data` y permite trabajar de forma agil, para convertir 
+los '.json' a '.parquet' instale los siguientes modulos: 
             `pip install pyarrow`
             `pip install fastparquet`
 
