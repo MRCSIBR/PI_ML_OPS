@@ -17,3 +17,9 @@ con los siguientes endpoints:
   `sentiment_analysis`
 
   El proyecto incluye un notebook y datasets usados
+
+  # DEPLOY en RENDER
+
+  Para el despliegue de la API se uso Render
+  disponible en el siguiente
+  link:
