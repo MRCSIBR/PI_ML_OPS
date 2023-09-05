@@ -1,7 +1,7 @@
 # PI_ML_OPS
 Proyecto individual 1
 
-En nuestro rol como data scientist para Steam debemos crear un sistema de recomendacion de videojuegos para la empresa. Debemos limpiar los datasets haciendo un trabajo rapido de data engineering. Tener un MVP antes de la fecha de cierre.
+En nuestro rol como data scientist para Steam debemos crear un sistema de recomendacion de videojuegos para la empresa. Debemos limpiar los datasets haciendo un trabajo rapido de data engineering. Lograr tener un MVP (minimum viable product).
 ## Estructura del repositorio:
             |
             |__* Data:       Carpeta con datasets
