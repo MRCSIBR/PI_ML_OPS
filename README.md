@@ -48,6 +48,6 @@ con los siguientes endpoints:
 
 ## TODO:
 
-- Deploy de FastAPI con docker
-- Implementar machine learning
+- ~~Deploy de FastAPI con docker~~
+- Implementar modelo machine learning
 
