@@ -43,8 +43,8 @@ con los siguientes endpoints:
   **`~ Corregido: para que funcione el build hay que cambiar la variable PYTHON_VERSION a 3.11.2`**
   
   Para el despliegue de la API se uso Render
-  disponible en el siguiente
-  link: https://deploy-api-mlops-zm86.onrender.com
+  disponible en el siguiente link: 
+  https://mdi-mlops.onrender.com/docs
 
 ## TODO:
 
