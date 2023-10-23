@@ -54,3 +54,6 @@ con los siguientes endpoints:
 - ~~Deploy de FastAPI con docker~~
 - Implementar modelo machine learning
 
+Consigna:
+https://github.com/soyHenry/PI_ML_OPS
+
