@@ -31,13 +31,13 @@ En el notebook 'LOAD_steam_games.ipynb' esta documentado el proceso.
 Luego de realizar los procesos de EDA ETL para entender los datos provistos continue con el desarrollo de la API
 con los siguientes endpoints: 
 
-  `games`
-  `userdata`
-  `countreviews`
-  `genre`
-  `userforgenre`
-  `developer`
-  `sentiment_analysis`
+ + `games`
+ + `userdata`
+ + `countreviews`
+ + `genre`
+ + `userforgenre`
+ + `developer`
+ + `sentiment_analysis`
 
   El proyecto incluye un notebook y datasets usados
 
