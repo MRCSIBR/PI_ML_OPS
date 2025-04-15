@@ -1,7 +1,7 @@
 # PI_ML_OPS
 ## Proyecto individual #1 / MLOps
 
-En mi rol como data scientist para Steam tuve la tarea de crear un sistema de recomendacion de videojuegos para la empresa. 
+Este proyecto es acerca de un sistema de recomendacion de videojuegos para Steam. 
 El repositorio contiene los notebooks que documentan el proceso realizado de ETL(Extraccion transformacion y carga de datos. Data Engineering (Conversion de .json a .parquet) etc. 
 Con el objetivo de lograr tener un MVP (minimum viable product).
 
