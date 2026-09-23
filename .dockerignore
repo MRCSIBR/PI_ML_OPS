@@ -1,0 +1,16 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+tests
+*.ipynb
+pyvenv.cfg
+filter_steam.csv
+user_item.csv
+ML_boilerplate.py
+data/steam_games.parquet
+data/user_reviews.parquet
+.env
